@@ -1,0 +1,5 @@
+C:\Users\truon\OneDrive\Documents\GitHub\PaintCollaborator\WhiteboardNew\ServerWhiteboard\bin\publish\ServerWhiteboard.exe
+C:\Users\truon\OneDrive\Documents\GitHub\PaintCollaborator\WhiteboardNew\ServerWhiteboard\bin\publish\ServerWhiteboard.dll
+C:\Users\truon\OneDrive\Documents\GitHub\PaintCollaborator\WhiteboardNew\ServerWhiteboard\bin\publish\ServerWhiteboard.deps.json
+C:\Users\truon\OneDrive\Documents\GitHub\PaintCollaborator\WhiteboardNew\ServerWhiteboard\bin\publish\ServerWhiteboard.runtimeconfig.json
+C:\Users\truon\OneDrive\Documents\GitHub\PaintCollaborator\WhiteboardNew\ServerWhiteboard\bin\publish\ServerWhiteboard.pdb

@@ -1,0 +1,5 @@
+C:\Users\truon\Desktop\suytFinal\Whiteboard.exe
+C:\Users\truon\Desktop\suytFinal\Whiteboard.dll
+C:\Users\truon\Desktop\suytFinal\Whiteboard.deps.json
+C:\Users\truon\Desktop\suytFinal\Whiteboard.runtimeconfig.json
+C:\Users\truon\Desktop\suytFinal\Whiteboard.pdb

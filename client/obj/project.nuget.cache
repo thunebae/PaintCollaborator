@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1jTRZj7bfR5HFGzpuI6WnQT3KtTo3eV8P1waYCWQZaiRdZpSOmqwsfHk+LZFFnghfZYQXeMKwHxH6pb6mhiaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\truon\\OneDrive\\Documents\\GitHub\\PaintCollaborator\\WhiteboardVer1.0\\WhiteboardNew\\Whiteboard\\Whiteboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\mongodb.driver\\2.12.4\\mongodb.driver.2.12.4.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\mongodb.driver.core\\2.12.4\\mongodb.driver.core.2.12.4.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\truon\OneDrive\Máy tính\ServerWhiteboard.exe
+C:\Users\truon\OneDrive\Máy tính\ServerWhiteboard.dll
+C:\Users\truon\OneDrive\Máy tính\ServerWhiteboard.deps.json
+C:\Users\truon\OneDrive\Máy tính\ServerWhiteboard.runtimeconfig.json
+C:\Users\truon\OneDrive\Máy tính\ServerWhiteboard.pdb

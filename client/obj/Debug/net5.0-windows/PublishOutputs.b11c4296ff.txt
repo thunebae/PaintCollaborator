@@ -1,0 +1,17 @@
+C:\Users\truon\Desktop\WhiteboardCollaborator\Whiteboard.exe
+C:\Users\truon\Desktop\WhiteboardCollaborator\Whiteboard.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\Whiteboard.deps.json
+C:\Users\truon\Desktop\WhiteboardCollaborator\Whiteboard.runtimeconfig.json
+C:\Users\truon\Desktop\WhiteboardCollaborator\Whiteboard.pdb
+C:\Users\truon\Desktop\WhiteboardCollaborator\DnsClient.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\MongoDB.Bson.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\MongoDB.Driver.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\MongoDB.Driver.Core.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\MongoDB.Libmongocrypt.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\SharpCompress.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\runtimes\win\native\libzstd.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\runtimes\win\native\snappy32.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\runtimes\win\native\snappy64.dll
+C:\Users\truon\Desktop\WhiteboardCollaborator\runtimes\linux\native\libmongocrypt.so
+C:\Users\truon\Desktop\WhiteboardCollaborator\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\truon\Desktop\WhiteboardCollaborator\runtimes\win\native\mongocrypt.dll

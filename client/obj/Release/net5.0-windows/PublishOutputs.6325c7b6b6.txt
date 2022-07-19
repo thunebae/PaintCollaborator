@@ -1,0 +1,5 @@
+C:\Users\truon\source\repos\54010nWhiteboard\bin\publish\Whiteboard.exe
+C:\Users\truon\source\repos\54010nWhiteboard\bin\publish\Whiteboard.dll
+C:\Users\truon\source\repos\54010nWhiteboard\bin\publish\Whiteboard.deps.json
+C:\Users\truon\source\repos\54010nWhiteboard\bin\publish\Whiteboard.runtimeconfig.json
+C:\Users\truon\source\repos\54010nWhiteboard\bin\publish\Whiteboard.pdb
